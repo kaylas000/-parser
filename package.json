@@ -1,0 +1,26 @@
+{
+  "name": "-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaylas000/-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaylas000/-parser/issues"
+  },
+  "homepage": "https://github.com/kaylas000/-parser#readme",
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "csv-writer": "^1.6.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^25.9.0"
+  }
+}
